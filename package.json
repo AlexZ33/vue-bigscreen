@@ -34,7 +34,7 @@
     "lint-staged": "^9.2.5",
     "sass": "^1.22.10",
     "sass-loader": "^7.3.1",
-    "standard-version": "^7.0.0",
+    "standard-version": "^8.0.1",
     "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
